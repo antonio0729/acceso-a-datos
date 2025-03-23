@@ -1,4 +1,4 @@
-# Gestion de banco
+# gestión de cuentas bancarias y tarjetas de crédito.
 Realiza 
 1. Clase TarjetaCredito: numero_tarjeta: Representa el número de la tarjeta. saldo_pendiente: Representa el saldo que el usuario debe pagar. Métodos: validar_tarjeta(numero) : Un método estático que valida si un número de tarjeta es válido utilizando el algoritmo de Luhn . El método debe retornar True si el número es válido y False en caso contrario. consultar_saldo_pendiente() : Retorna el saldo pendiente de la tarjeta. pagar(cantidad) : Reduce el saldo pendiente de la tarjeta si la cantidad a pagar es válida. 
 
