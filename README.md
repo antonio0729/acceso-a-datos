@@ -1,4 +1,4 @@
-# acceso-a-datos
+# Gestion de banco
 class TarjetaCredito:
     def __init__(self, numero_tarjeta, saldo_pendiente):
         self.numero_tarjeta = numero_tarjeta
